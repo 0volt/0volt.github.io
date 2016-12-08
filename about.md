@@ -1,12 +1,22 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: "Whom did you stumble into?"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Well, I am programmer who is curious about anything and everything that can be
+done with computers.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My central attractions are Computer Security (I recognise the broadness of
+the topic), Operating Systems and Programming Language Theory (of which I know
+nothing ;) ).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I sometimes read fiction. I listen to classic rock and country rock but
+otherwise open to new tastes. I take a passive interest in global politics and
+am still sometimes taken by my childhood fantasies involving military weapons.
+
+I am a avid TV Series (English) and movie watcher and love to reflect about the
+hidden meaning and characterisations (I sometimes can see through the viewpoint
+of the antagonist).
+
