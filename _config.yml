@@ -1,18 +1,17 @@
 # Site settings
-title: Daktilo
+title: Howls in the Infinity
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Yet another blog of a (yet another) CS enthusiast! Here I write (or
+  planning to) about all the random stuff I learn or think about.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://0volt.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: Zero Volt
+  #googleplus: https://www.google.com/+MotaquillahMaddane
+  github: 0volt
+  #twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
