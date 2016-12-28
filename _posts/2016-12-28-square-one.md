@@ -16,11 +16,11 @@ way I see or I can't see your version, maybe it's just because we have had
 different experiences. We are what we are because of our experiences.
 
 I believe that, since this is my first post, I should explain the title of the
-blog! Well, as I was to write here anything I want without caring about the
-repercussions or being judged it I am wrong. I know that everyone is entitled
-to the consequences of one's actions, but these are the thoughts that would never
-have left my mind. Let these words wander about the vast expanses of the
-internet then get destroyed with time. I believe (maybe just like everyone)
-these thoughts are too precious to get destroyed.
+blog! Well, I am planing to write here anything I want without caring about the
+repercussions or being judged that I am wrong. I know that everyone is entitled
+to the consequences of one's actions, but these are the thoughts that would have
+never left my mind otherwise. Let these words wander about the vast expanses of
+the internet rather then get destroyed with time. I believe (maybe just like
+everyone) these thoughts are too precious to get destroyed.
 
 With this I bid thee goodbye with, what RMS had one said to me, "Happy Hacking!"
