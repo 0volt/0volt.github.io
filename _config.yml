@@ -5,7 +5,8 @@ description: >
   planning to) about all the random stuff I learn or think about.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://0volt.github.io" # the base hostname & protocol for your site
+url: "https://0volt.github.io" # the base hostname & protocol for your site
+disqus_name: 0volt
 
 author:
   fullname: Zero Volt
